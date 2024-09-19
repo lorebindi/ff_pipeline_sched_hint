@@ -1,0 +1,5 @@
+# Ignora i file di build
+/build/
+/bin/
+/.idea
+/cmake-build-debug
