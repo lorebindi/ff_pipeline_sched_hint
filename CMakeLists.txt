@@ -22,6 +22,8 @@ endif()
 set(FF_ROOT "/home/bindi/fastflow")
 include_directories(${FF_ROOT})
 
+include_directories(src)
+
 # Imposta il C++ standard
 set(CMAKE_CXX_STANDARD 20)
 

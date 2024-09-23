@@ -2,9 +2,9 @@
 TARGET = test_ossched_pipe
 
 # Directory dei sorgenti e di output
-SRC_DIR = .
-BIN_DIR = ../bin
-BUILD_DIR = ../build
+SRC_DIR = src
+BIN_DIR = bin
+BUILD_DIR = build
 
 # Compilatore e flag
 CXX = g++
